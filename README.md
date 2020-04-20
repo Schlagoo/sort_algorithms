@@ -15,7 +15,7 @@ Before running the script clone the repository to your desired directory:
 
 ~~~
 cd /path/to/desired/directory
-git clone git@github.com:Schlagoo/sorting_algorithms
+git clone git@github.com:Schlagoo/sort_algorithms
 ~~~
 
 After uncommenting the desired function, you can run the script from the terminal (linux) via:
